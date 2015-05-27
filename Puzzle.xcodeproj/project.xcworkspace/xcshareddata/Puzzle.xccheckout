@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BBF1D14D-8DDC-44C9-BA1E-60AE5C4A5F40</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Puzzle</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>186A462DB1CE37CDDE31146CF39E1BD32FF0F380</key>
+		<string>https://github.com/frcocoatst/Puzzle106.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Puzzle.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>186A462DB1CE37CDDE31146CF39E1BD32FF0F380</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/frcocoatst/Puzzle106.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>186A462DB1CE37CDDE31146CF39E1BD32FF0F380</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>186A462DB1CE37CDDE31146CF39E1BD32FF0F380</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Puzzle106</string>
+		</dict>
+	</array>
+</dict>
+</plist>
